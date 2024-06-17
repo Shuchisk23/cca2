@@ -9,3 +9,4 @@ You can find all tutorials on my channel: [Playlist](https://www.youtube.com/pla
 - Part 3: Implement the agent that controls the game.
 - Part 4: Implement the neural network to predict the moves and train it.
 # sample
+# sample1
